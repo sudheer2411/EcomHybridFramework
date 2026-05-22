@@ -1,0 +1,211 @@
+2025-04-25 23:43:24 [main] INFO  com.base.BaseClass - initilising browser
+2025-04-25 23:43:24 [main] INFO  com.base.BaseClass - invoing chrome
+2025-04-25 23:43:35 [main] INFO  com.base.BaseClass - initilising browser
+2025-04-25 23:43:35 [main] INFO  com.base.BaseClass - invoing chrome
+2025-04-25 23:47:48 [main] INFO  com.base.BaseClass - initilising browser
+2025-04-25 23:47:48 [main] INFO  com.base.BaseClass - invoing chrome
+2025-04-25 23:47:57 [main] INFO  com.base.BaseClass - initilising browser
+2025-04-25 23:47:57 [main] INFO  com.base.BaseClass - invoing chrome
+2025-04-25 23:49:51 [main] INFO  com.base.BaseClass - initilising browser
+2025-04-25 23:49:51 [main] INFO  com.base.BaseClass - invoing chrome
+2025-04-25 23:51:42 [main] INFO  com.base.BaseClass - initilising browser
+2025-04-25 23:51:42 [main] INFO  com.base.BaseClass - invoing chrome
+2025-04-25 23:52:57 [main] INFO  com.base.BaseClass - initilising browser
+2025-04-25 23:52:57 [main] INFO  com.base.BaseClass - invoing chrome
+2025-04-25 23:56:43 [main] INFO  com.base.BaseClass - initilising browser
+2025-04-25 23:56:43 [main] INFO  com.base.BaseClass - invoing chrome
+2025-04-25 23:59:04 [main] INFO  com.base.BaseClass - initilising browser
+2025-04-25 23:59:04 [main] INFO  com.base.BaseClass - invoing chrome
+2025-04-28 12:20:54 [main] INFO  com.base.BaseClass - initilising browser
+2025-04-28 12:20:54 [main] INFO  com.base.BaseClass - invoing chrome
+2025-04-28 12:22:08 [main] INFO  com.base.BaseClass - initilising browser
+2025-04-28 12:22:08 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-01 00:04:08 [main] INFO  com.Listeners.MyListeners - test suite execution begins...
+2025-05-01 00:06:42 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-05-01 00:06:42 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-01 00:06:42 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-01 00:06:56 [main] INFO  com.base.BaseClass - test execution started
+2025-05-01 00:07:01 [main] INFO  com.base.BaseClass - test execution success
+2025-05-01 00:07:02 [main] INFO  com.base.BaseClass - test execution started
+2025-05-01 00:07:02 [main] INFO  com.base.BaseClass - test execution failure
+2025-05-01 00:07:04 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-05-01 00:10:47 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-05-01 00:10:48 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-01 00:10:48 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-01 00:11:01 [main] INFO  com.base.BaseClass - test execution started
+2025-05-01 00:11:04 [main] INFO  com.base.BaseClass - test execution success
+2025-05-01 00:11:04 [main] INFO  com.base.BaseClass - test execution started
+2025-05-01 00:11:04 [main] INFO  com.base.BaseClass - test execution failure
+2025-05-01 00:11:07 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-05-01 00:12:22 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-05-01 00:12:22 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-01 00:12:22 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-01 00:12:35 [main] INFO  com.base.BaseClass - test execution started
+2025-05-01 00:12:39 [main] INFO  com.base.BaseClass - test execution success
+2025-05-01 00:12:39 [main] INFO  com.base.BaseClass - test execution started
+2025-05-01 00:12:39 [main] INFO  com.base.BaseClass - test execution skipped
+2025-05-01 00:12:42 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-05-01 00:13:54 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-05-01 00:13:54 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-01 00:13:54 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-01 00:14:08 [main] INFO  com.base.BaseClass - test execution started
+2025-05-01 00:14:12 [main] INFO  com.base.BaseClass - test execution success
+2025-05-01 00:14:12 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-01 00:14:12 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-01 00:14:21 [main] INFO  com.base.BaseClass - test execution started
+2025-05-01 00:14:23 [main] INFO  com.base.BaseClass - test execution success
+2025-05-01 00:14:26 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-05-01 00:16:08 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-05-01 00:16:09 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-01 00:16:09 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-01 00:16:21 [main] INFO  com.base.BaseClass - test execution started
+2025-05-01 00:16:24 [main] INFO  com.base.BaseClass - test execution success
+2025-05-01 00:16:25 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-01 00:16:25 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-01 00:16:34 [main] INFO  com.base.BaseClass - test execution started
+2025-05-01 00:16:34 [main] INFO  com.base.BaseClass - test execution success
+2025-05-01 00:16:37 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-05-08 00:30:16 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-05-08 00:30:16 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-08 00:30:16 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-08 00:30:27 [main] INFO  com.base.BaseClass - test execution started
+2025-05-08 00:30:29 [main] INFO  com.base.BaseClass - test execution success
+2025-05-08 00:30:30 [main] INFO  com.base.BaseClass - test execution started
+2025-05-08 00:30:30 [main] INFO  com.base.BaseClass - test execution failure
+2025-05-08 00:30:32 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-05-13 23:27:21 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-05-13 23:27:21 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-13 23:27:21 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-13 23:27:35 [main] INFO  com.base.BaseClass - test execution started
+2025-05-13 23:27:36 [main] INFO  com.base.BaseClass - test execution success
+2025-05-13 23:27:39 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-05-13 23:35:57 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-05-13 23:35:57 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-13 23:35:57 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-13 23:37:43 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-05-13 23:37:43 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-13 23:37:43 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-13 23:37:56 [main] INFO  com.base.BaseClass - test execution started
+2025-05-13 23:37:59 [main] INFO  com.base.BaseClass - test execution success
+2025-05-13 23:38:00 [main] INFO  com.base.BaseClass - test execution started
+2025-05-13 23:38:00 [main] INFO  com.base.BaseClass - test execution failure
+2025-05-13 23:38:04 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-05-13 23:44:02 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-05-13 23:44:02 [main] INFO  com.base.BaseClass - initilising browser
+2025-05-13 23:44:02 [main] INFO  com.base.BaseClass - invoing chrome
+2025-05-13 23:44:12 [main] INFO  com.base.BaseClass - test execution started
+2025-05-13 23:44:14 [main] INFO  com.base.BaseClass - test execution success
+2025-05-13 23:44:15 [main] INFO  com.base.BaseClass - test execution started
+2025-05-13 23:44:15 [main] INFO  com.base.BaseClass - test execution failure
+2025-05-13 23:44:17 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-09-30 23:21:35 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-09-30 23:21:35 [main] INFO  com.base.BaseClass - initilising browser
+2025-09-30 23:21:35 [main] INFO  com.base.BaseClass - invoing chrome
+2025-09-30 23:21:49 [main] INFO  com.base.BaseClass - test execution started
+2025-09-30 23:21:51 [main] INFO  com.base.BaseClass - test execution success
+2025-09-30 23:21:53 [main] INFO  com.base.BaseClass - test execution started
+2025-09-30 23:21:53 [main] INFO  com.base.BaseClass - test execution failure
+2025-09-30 23:21:55 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-09-30 23:24:15 [main] INFO  com.base.BaseClass - initilising browser
+2025-09-30 23:24:15 [main] INFO  com.base.BaseClass - invoing chrome
+2025-09-30 23:29:35 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-09-30 23:29:35 [main] INFO  com.base.BaseClass - initilising browser
+2025-09-30 23:29:35 [main] INFO  com.base.BaseClass - invoing chrome
+2025-09-30 23:29:45 [main] INFO  com.base.BaseClass - test execution started
+2025-09-30 23:29:47 [main] INFO  com.base.BaseClass - test execution success
+2025-09-30 23:29:48 [main] INFO  com.base.BaseClass - test execution started
+2025-09-30 23:29:48 [main] INFO  com.base.BaseClass - test execution failure
+2025-09-30 23:29:49 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-09-30 23:31:18 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-09-30 23:31:18 [main] INFO  com.base.BaseClass - initilising browser
+2025-09-30 23:31:18 [main] INFO  com.base.BaseClass - invoing chrome
+2025-09-30 23:31:29 [main] INFO  com.base.BaseClass - test execution started
+2025-09-30 23:31:30 [main] INFO  com.base.BaseClass - test execution failure
+2025-09-30 23:31:34 [main] INFO  com.base.BaseClass - test execution started
+2025-09-30 23:31:35 [main] INFO  com.base.BaseClass - test execution success
+2025-09-30 23:31:38 [main] INFO  com.base.BaseClass - test execution started
+2025-09-30 23:31:39 [main] INFO  com.base.BaseClass - test execution success
+2025-09-30 23:31:42 [main] INFO  com.base.BaseClass - test execution started
+2025-09-30 23:31:42 [main] INFO  com.base.BaseClass - test execution success
+2025-09-30 23:31:45 [main] INFO  com.base.BaseClass - test execution started
+2025-09-30 23:31:46 [main] INFO  com.base.BaseClass - test execution failure
+2025-09-30 23:31:49 [main] INFO  com.base.BaseClass - test execution started
+2025-09-30 23:31:50 [main] INFO  com.base.BaseClass - test execution success
+2025-09-30 23:31:52 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-10-01 00:15:27 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-10-01 00:15:27 [main] INFO  com.base.BaseClass - initilising browser
+2025-10-01 00:15:27 [main] INFO  com.base.BaseClass - invoing chrome
+2025-10-01 00:15:38 [main] INFO  com.base.BaseClass - test execution started
+2025-10-01 00:15:39 [main] INFO  com.base.BaseClass - test execution success
+2025-10-01 00:15:42 [main] INFO  com.base.BaseClass - test execution started
+2025-10-01 00:15:43 [main] INFO  com.base.BaseClass - test execution success
+2025-10-01 00:15:46 [main] INFO  com.base.BaseClass - test execution started
+2025-10-01 00:15:47 [main] INFO  com.base.BaseClass - test execution success
+2025-10-01 00:15:50 [main] INFO  com.base.BaseClass - test execution started
+2025-10-01 00:15:51 [main] INFO  com.base.BaseClass - test execution success
+2025-10-01 00:15:54 [main] INFO  com.base.BaseClass - test execution started
+2025-10-01 00:15:54 [main] INFO  com.base.BaseClass - test execution failure
+2025-10-01 00:15:58 [main] INFO  com.base.BaseClass - test execution started
+2025-10-01 00:15:59 [main] INFO  com.base.BaseClass - test execution success
+2025-10-01 00:16:01 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-10-02 22:51:21 [main] INFO  com.base.BaseClass - test suite execution begins...
+2025-10-02 22:51:22 [main] INFO  com.base.BaseClass - initilising browser
+2025-10-02 22:51:22 [main] INFO  com.base.BaseClass - invoing chrome
+2025-10-02 22:51:36 [main] INFO  com.base.BaseClass - test execution started
+2025-10-02 22:51:37 [main] INFO  com.base.BaseClass - test execution success
+2025-10-02 22:51:40 [main] INFO  com.base.BaseClass - test execution started
+2025-10-02 22:51:41 [main] INFO  com.base.BaseClass - test execution success
+2025-10-02 22:51:44 [main] INFO  com.base.BaseClass - test execution started
+2025-10-02 22:51:45 [main] INFO  com.base.BaseClass - test execution success
+2025-10-02 22:51:48 [main] INFO  com.base.BaseClass - test execution started
+2025-10-02 22:51:50 [main] INFO  com.base.BaseClass - test execution success
+2025-10-02 22:51:53 [main] INFO  com.base.BaseClass - test execution started
+2025-10-02 22:51:53 [main] INFO  com.base.BaseClass - test execution failure
+2025-10-02 22:51:57 [main] INFO  com.base.BaseClass - test execution started
+2025-10-02 22:51:57 [main] INFO  com.base.BaseClass - test execution failure
+2025-10-02 22:52:01 [main] INFO  com.base.BaseClass - test execution started
+2025-10-02 22:52:02 [main] INFO  com.base.BaseClass - test execution success
+2025-10-02 22:52:05 [main] INFO  com.base.BaseClass - test execution started
+2025-10-02 22:52:05 [main] INFO  com.base.BaseClass - test execution skipped
+2025-10-02 22:52:08 [main] INFO  com.base.BaseClass - test execution started
+2025-10-02 22:52:08 [main] INFO  com.base.BaseClass - test execution failure
+2025-10-02 22:52:12 [main] INFO  com.base.BaseClass - test execution started
+2025-10-02 22:52:12 [main] INFO  com.base.BaseClass - test execution failure
+2025-10-02 22:52:15 [main] INFO  com.base.BaseClass - test suite execution completed
+2025-10-02 23:39:26 [main] INFO  com.base.BaseClass - initilising browser
+2025-10-02 23:39:26 [main] INFO  com.base.BaseClass - invoing chrome
+2025-10-02 23:51:16 [main] INFO  com.base.BaseClass - initilising browser
+2025-10-02 23:51:16 [main] INFO  com.base.BaseClass - invoing chrome
+2025-10-02 23:51:56 [main] INFO  com.base.BaseClass - initilising browser
+2025-10-02 23:51:56 [main] INFO  com.base.BaseClass - invoing chrome
+2026-03-13 20:44:18 [main] INFO  com.base.BaseClass - test suite execution begins...
+2026-03-13 20:44:18 [main] INFO  com.base.BaseClass - initilising browser
+2026-03-13 20:44:18 [main] INFO  com.base.BaseClass - invoing chrome
+2026-03-13 20:45:30 [main] INFO  com.base.BaseClass - initilising browser
+2026-03-13 20:45:30 [main] INFO  com.base.BaseClass - invoing chrome
+2026-03-13 20:46:52 [main] INFO  com.base.BaseClass - initilising browser
+2026-03-13 20:46:52 [main] INFO  com.base.BaseClass - invoing chrome
+2026-03-13 20:50:03 [main] INFO  com.base.BaseClass - test suite execution begins...
+2026-03-13 20:50:03 [main] INFO  com.base.BaseClass - initilising browser
+2026-03-13 20:50:03 [main] INFO  com.base.BaseClass - invoing chrome
+2026-03-13 20:50:46 [main] INFO  com.base.BaseClass - test execution started
+2026-03-13 20:51:21 [main] INFO  com.base.BaseClass - test execution success
+2026-03-13 20:51:24 [main] INFO  com.base.BaseClass - test execution started
+2026-03-13 20:51:28 [main] INFO  com.base.BaseClass - test execution success
+2026-03-13 20:51:31 [main] INFO  com.base.BaseClass - test execution started
+2026-03-13 20:51:35 [main] INFO  com.base.BaseClass - test execution success
+2026-03-13 20:51:38 [main] INFO  com.base.BaseClass - test execution started
+2026-03-13 20:51:41 [main] INFO  com.base.BaseClass - test execution success
+2026-03-13 20:51:44 [main] INFO  com.base.BaseClass - test execution started
+2026-03-13 20:51:57 [main] INFO  com.base.BaseClass - test execution failure
+2026-03-13 20:52:01 [main] INFO  com.base.BaseClass - test execution started
+2026-03-13 20:52:23 [main] INFO  com.base.BaseClass - test execution failure
+2026-03-13 20:52:27 [main] INFO  com.base.BaseClass - test execution started
+2026-03-13 20:53:34 [main] INFO  com.base.BaseClass - test execution success
+2026-03-13 20:53:37 [main] INFO  com.base.BaseClass - test execution started
+2026-03-13 20:53:37 [main] INFO  com.base.BaseClass - test execution skipped
+2026-03-13 20:53:40 [main] INFO  com.base.BaseClass - test execution started
+2026-03-13 20:53:57 [main] INFO  com.base.BaseClass - test execution failure
+2026-03-13 20:54:01 [main] INFO  com.base.BaseClass - test execution started
+2026-03-13 20:54:18 [main] INFO  com.base.BaseClass - test execution failure
+2026-03-13 20:54:20 [main] INFO  com.base.BaseClass - test suite execution completed
