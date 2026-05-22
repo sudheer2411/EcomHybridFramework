@@ -1,2 +1,3 @@
 from local i would like to get back to you.
 Made some changes at remote by being at remote. 
+lets do some changes from local in order to resolve merge conflict.
